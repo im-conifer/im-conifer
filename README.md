@@ -1,4 +1,6 @@
-## Hi there 👋
+## o man
+
+i'm conifer, they/them, and I'm just getting started with programming. i'll be using github pretty much exclusively for my learning at first, but who knows, i might change my mind.
 
 <!--
 **im-conifer/im-conifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
